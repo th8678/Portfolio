@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello, here is my portfolio constituted with a few projects during 2018-2022.
+Hello, here is my portfolio composed with several projects during 2018-2022 listed below.
 
 1. Deformable Desert - Environment Rendering
 2. Ice Surface - Environment Rendering
